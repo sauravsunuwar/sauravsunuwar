@@ -1,6 +1,6 @@
-# 👋 Welcome to world of Saurav 👨‍💻
+# 👋 Welcome to Github 👨‍💻
 
-Welcome to my GitHub space! Here's where the code magic happens! ✨
+Welcome to my Saurav space! Here's where the code magic happens! ✨
 
 ## 🚀 About Me
 
